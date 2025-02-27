@@ -1,14 +1,12 @@
-# Hi there, I'm Zac Trese 👋
+- 👋 Hi, I’m @isaacsoriano
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-🔹 **About Me:**
-- 🎓 4th-year BS Computer Science student  
-- 🏆 Aspiring Cybersecurity Professional  
-- 💻 Passionate about Software Engineering & InfoSec  
-
-🔹 **Tech Stack:**
-- 💡 Languages: C++, Java, Python, C#  
-- 🛠️ Tools: VS Code, Android Studio, GitHub, Kali Linux  
-
-📫 **Let's connect:**  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ZacTrese)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+<!---
+isaacsoriano/isaacsoriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
