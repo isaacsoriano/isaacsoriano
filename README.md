@@ -1,9 +1,12 @@
-### 👋 Hi there, I'm @isaacsoriano
+👋 Hi there, I'm @isaacsoriano
 
-- 👀 I’m interested in Flutter and mobile app development  
-- 🌱 I’m currently learning to build an app using the Flutter framework  
-- 🛠️ Working on a thesis project involving YOLOv4-Tiny and real-time tool recognition  
-- ⚡ Fun fact: My favorite debugging tool is coffee. ☕
+    👀 I’m passionate about mobile app development
+
+    🌱 Currently learning and building apps with the Flutter framework
+
+    💡 I enjoy turning ideas into functional, user-friendly applications
+
+    ⚡ Fun fact: My favorite debugging tool is coffee. ☕
 
 
 <!---
